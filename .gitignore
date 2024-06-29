@@ -5,3 +5,6 @@
 /exercise2/api/obj
 /exercise2/api/bin/Debug/net8.0
 /exercise2/api/.vs/StargateAPI/FileContentIndex
+/.vs
+/exercise1/api/bin/Debug/net8.0
+/exercise1/.vs
