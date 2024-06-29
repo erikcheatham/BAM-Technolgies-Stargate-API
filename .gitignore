@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/exercise2/api/obj
+/exercise2/api/bin/Debug/net8.0
+/exercise2/api/.vs/StargateAPI/FileContentIndex
