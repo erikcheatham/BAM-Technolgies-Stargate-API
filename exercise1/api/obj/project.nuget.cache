@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9j7pkcrsvVEbzTOfi63kcDql/qNwY63/w1CA0j06JS37pcdYFOPjd/MyK/ryGxsTG/95Fy3cNcNQhTRjMZfbA==",
+  "dgSpecHash": "Hj+YzuvkW0hkQ3+2zaO91E629CTBq91/Xnr49wkcMlZ1diCpHxd9evj0C9oQZnuJgkLeKf4DCBxbTeJDz9JmTQ==",
   "success": true,
-  "projectFilePath": "F:\\Code Challenges\\BAM Technologies\\tech_exercise_v.0.0.3\\tech_exercise_v.0.0.3\\tech_exercise\\package\\exercise1\\api\\StargateAPI.csproj",
+  "projectFilePath": "F:\\Code Challenges\\BAM Technolgies Stargate API\\exercise1\\api\\StargateAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikc\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\erikc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
